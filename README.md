@@ -1,20 +1,18 @@
+# ✨ Aitor Palomares :man_technologist: ✨
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)][website]
+
+### Hola! 👋 Welcome to my profile
+
+My name is [Aitor][website] and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with React.js
+ - 📚 Currently studying React Native
+ - 🌍 And I also like to travel
+
+
+
 [website]: https://torian12321.github.io/
-
-### Hi there, I'm [Aitor][website] 👋
-<!--
-**torian12321/torian12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+[gitUrl]: https://github.com/torian12321
+[linkedinUrl]: https://ie.linkedin.com/in/aitorpalomares
